@@ -58,7 +58,7 @@ ecommerce-app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pooja735/full-stack-e-commerce-website.git
+   git clone https://github.com/pooja735/full-stack-e-commerce-with-chatbot.git
    ```
 
 2. Install dependencies:
@@ -133,4 +133,4 @@ ecommerce-app/
 
 Valleti Pooja -  pooja.valleti@gmail.com
 
-Project Link: https://github.com/pooja735/full-stack-e-commerce-website.git
+Project Link: https://github.com/pooja735/full-stack-e-commerce-with-chatbot.git
